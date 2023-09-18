@@ -12,6 +12,10 @@ import HelloWorld from './components/HelloWorld.vue';
     </a>
   </div>
   <HelloWorld msg="Vite + Vue + vercel" />
+  <p>test 1</p>
+  <p>test 2</p>
+  <p>test 1</p>
+  <p>test 1</p>
 </template>
 
 <style scoped>
